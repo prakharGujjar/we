@@ -24,7 +24,7 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![](india-republic-day_23-2147733593.jpg)
+[Link](url) and ![](india-republic-day_23-2147733593.jpg)<img src="india-republic-day_23-2147733593.jpg"width=400>
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
